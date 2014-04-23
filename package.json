@@ -1,0 +1,24 @@
+{
+    "name":         "Slideshow",
+    "author":       "Julian Szulc",
+    "description":  "Fullscreen slideshow with live source update.",
+    "version":      "0.1.1",
+    "main":         "main.html",
+    "node-main":    "main.js",
+    "window":       {
+        "toolbar":    false,
+        "position":   "center",
+        "width":      800,
+        "height":     600,
+        "min_width":  400,
+        "min_height": 300
+    },
+    "dependencies": {
+        "chokidar":   "0.8.x",
+        "winston":    "0.7.x",
+        "sprintf-js": "0.0.x",
+        "path-extra": "0.1.x",
+        "nconf":      "0.6.x",
+        "mkdirp":     "0.4.x"
+    }
+}

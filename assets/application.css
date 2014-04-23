@@ -1,0 +1,25 @@
+body {
+    margin: 0;
+    padding: 0;
+    background-color: black;
+}
+
+.no-cursor {
+    cursor: none;
+}
+
+div#slide {
+    padding: 0;
+    margin: 0;
+    height: 100%;
+    width: 100%;
+}
+
+img#slide_image {
+    padding: 0;
+    margin: 0;
+    width: 100%;
+    height: 100%;
+    object-fit: contain;
+    display: block;
+}
