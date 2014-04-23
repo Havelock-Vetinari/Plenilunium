@@ -5,6 +5,7 @@
     "version":      "0.1.1",
     "main":         "main.html",
     "node-main":    "main.js",
+    "keywords":     ["slideshow", "fullscreen", "node-webkit", "liveupdate", "update", "picture frame"],
     "window":       {
         "toolbar":    false,
         "position":   "center",
