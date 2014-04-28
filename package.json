@@ -1,5 +1,5 @@
 {
-    "name":         "Slideshow",
+    "name":         "Plenilunium",
     "author":       "Julian Szulc",
     "description":  "Fullscreen slideshow with live source update.",
     "version":      "0.1.1",
@@ -7,6 +7,7 @@
     "node-main":    "main.js",
     "keywords":     ["slideshow", "fullscreen", "node-webkit", "liveupdate", "update", "picture frame"],
     "window":       {
+        "title":      "Plenilunium",
         "toolbar":    false,
         "position":   "center",
         "width":      800,
